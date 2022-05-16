@@ -216,7 +216,10 @@ and (max-device-width : 768px) {
   }
   .review > div {
    width: 316px;
-   height: 170px;
+   height: 200px;
+  }
+   .review > div > p {
+    padding-bottom: 20px;
   }
 
 }
