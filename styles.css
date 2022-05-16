@@ -214,6 +214,7 @@ and (max-device-width : 768px) {
   }
   .review > div {
    width: 316px;
+   heiht: 240px;
   }
 
 }
